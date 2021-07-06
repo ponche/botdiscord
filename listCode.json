@@ -1,0 +1,697 @@
+[
+    {
+        "code": "orange",
+        "indices": [
+            "couleur",
+            "peau",
+            "jus",
+            "ville",
+            "fruit",
+            "pulpe"
+        ]
+    },
+    {
+        "code": "ombre",
+        "indices": [
+            "lumière",
+            "paupière",
+            "tableau",
+            "chinoise",
+            "silhouette",
+            "peur"
+        ]
+    },
+    {
+        "code": "banc",
+        "indices": [
+            "poissons",
+            "public",
+            "essai",
+            "sable",
+            "école",
+            "coffre"
+        ]
+    },
+    {
+        "code": "art",
+        "indices": [
+            "histoire",
+            "object",
+            "règles",
+            "oeuvre",
+            "contemporain",
+            "martial"
+        ]
+    },
+    {
+        "code": "âme",
+        "indices": [
+            "corps",
+            "état",
+            "mort",
+            "vague",
+            "soeur",
+            "conscience"
+        ]
+    },
+    {
+        "code": "liquide",
+        "indices": [
+            "refroidisement",
+            "frein",
+            "argent",
+            "vaisselle",
+            "état",
+            "boisson"
+        ]
+    },
+    {
+        "code": "avion",
+        "indices": [
+            "ligne",
+            "chasse",
+            "pilote",
+            "papier",
+            "aile",
+            "planeur"
+        ]
+    },
+    {
+        "code": "cabine",
+        "indices": [
+            "ascenseur",
+            "valise",
+            "téléphonique",
+            "avion",
+            "peinture",
+            "essayage"
+        ]
+    },
+    {
+        "code": "route",
+        "indices": [
+            "mise",
+            "feuille",
+            "carnet",
+            "soie",
+            "rhum",
+            "code"
+        ]
+    },
+    {
+        "code": "ombre",
+        "indices": [
+            "poissons",
+            "public",
+            "essai",
+            "sable",
+            "école",
+            "coffre"
+        ]
+    },
+    {
+        "code": "droit",
+        "indices": [
+            "passse",
+            "réponse",
+            "abus",
+            "auteur",
+            "autorisation",
+            "angle"
+        ]
+    },
+    {
+        "code": "cire",
+        "indices": [
+            "cachet",
+            "poupée",
+            "abeille",
+            "bougie",
+            "statue",
+            "epilation"
+        ]
+    },
+    {
+        "code": "radio",
+        "indices": [
+            "silence",
+            "reveil",
+            "station",
+            "poste",
+            "frequence",
+            "antenne"
+        ]
+    },
+    {
+        "code": "ange",
+        "indices": [
+            "cheveux",
+            "nid",
+            "gardine",
+            "ailes",
+            "fils",
+            "aureole"
+        ]
+    },
+    {
+        "code": "puce",
+        "indices": [
+            "saut",
+            "oreille",
+            "chien",
+            "insecte",
+            "electronique",
+            "carte"
+        ]
+    },
+    {
+        "code": "salon",
+        "indices": [
+            "jardin",
+            "beauté",
+            "danses",
+            "professionnel",
+            "foire",
+            "agriculture"
+        ]
+    },
+    {
+        "code": "trou",
+        "indices": [
+            "golf",
+            "memoire",
+            "serrure",
+            "souris",
+            "noir",
+            "eau"
+        ]
+    },
+    {
+        "code": "part",
+        "indices": [
+            "marché",
+            "gateau",
+            "portion",
+            "faire",
+            "partage",
+            "tranche"
+        ]
+    },
+    {
+        "code": "bonnet",
+        "indices": [
+            "blanc",
+            "nuit",
+            "gros",
+            "bain",
+            "ane",
+            "ski"
+        ]
+    },
+    {
+        "code": "chat",
+        "indices": [
+            "gouttière",
+            "poisson",
+            "herbe",
+            "langue",
+            "félin",
+            "siamois"
+        ]
+    },
+    {
+        "code": "clou",
+        "indices": [
+            "spectable",
+            "cavalier",
+            "marteau",
+            "girofle",
+            "pointe",
+            "quincaillerie"
+        ]
+    },
+    {
+        "code": "hotel",
+        "indices": [
+            "maitre",
+            "chambre",
+            "particulier",
+            "ville",
+            "etoile",
+            "nuit"
+        ]
+    },
+    {
+        "code": "bouche",
+        "indices": [
+            "oreille",
+            "coeur",
+            "fine",
+            "bain",
+            "amuse",
+            "eau"
+        ]
+    },
+    {
+        "code": "creme",
+        "indices": [
+            "soin",
+            "fraiche",
+            "cafe",
+            "solaire",
+            "patissiere",
+            "brulée"
+        ]
+    },
+    {
+        "code": "tranche",
+        "indices": [
+            "vie",
+            "horaire",
+            "ananas",
+            "livre",
+            "impots",
+            "morceau"
+        ]
+    },
+    {
+        "code": "passage",
+        "indices": [
+            "vide",
+            "vitesse",
+            "niveau",
+            "avis",
+            "extrait",
+            "piéton"
+        ]
+    },
+    {
+        "code": "musique",
+        "indices": [
+            "fond",
+            "air",
+            "chambre",
+            "instrument",
+            "note",
+            "partition"
+        ]
+    },
+    {
+        "code": "accord",
+        "indices": [
+            "guitage",
+            "verbal",
+            "mineur",
+            "principe",
+            "verbe",
+            "signature"
+        ]
+    },
+    {
+        "code": "plat",
+        "indices": [
+            "vengeance",
+            "jour",
+            "oeuf",
+            "pied",
+            "principal",
+            "faux"
+        ]
+    },
+    {
+        "code": "rouge",
+        "indices": [
+            "fer",
+            "gorge",
+            "alerte",
+            "stendhal",
+            "lèvre",
+            "rubis"
+        ]
+    },
+    {
+        "code": "chat",
+        "indices": [
+            "oeil",
+            "poisson",
+            "perche",
+            "gouttière",
+            "poils",
+            "langue"
+        ]
+    },
+    {
+        "code": "arc",
+        "indices": [
+            "cercle",
+            "corde",
+            "ciel",
+            "triomphe",
+            "arcade",
+            "tir"
+        ]
+    },
+    {
+        "code": "chemin",
+        "indices": [
+            "droit",
+            "table",
+            "fer",
+            "rebrousser",
+            "halage",
+            "compostelle"
+        ]
+    },
+    {
+        "code": "coffre",
+        "indices": [
+            "fort",
+            "voix",
+            "banque",
+            "meuble",
+            "jouets",
+            "toit"
+        ]
+    },
+    {
+        "code": "jour",
+        "indices": [
+            "chance",
+            "ordre",
+            "contre",
+            "fête",
+            "nuit",
+            "an"
+        ]
+    },
+    {
+        "code": "tigre",
+        "indices": [
+            "tête",
+            "oeil",
+            "requin",
+            "fleuve",
+            "bengale",
+            "felindra"
+        ]
+    },
+    {
+        "code": "cle",
+        "indices": [
+            "serrure",
+            "problème",
+            "bras",
+            "voûte",
+            "mollette",
+            "champs"
+        ]
+    },
+    {
+        "code": "corne",
+        "indices": [
+            "vache",
+            "brume",
+            "diable",
+            "pied",
+            "patisserie",
+            "ivoire"
+        ]
+    },
+    {
+        "code": "carre",
+        "indices": [
+            "coupe",
+            "agneaux",
+            "tête",
+            "chocolat",
+            "as",
+            "poker"
+        ]
+    },
+    {
+        "code": "ble",
+        "indices": [
+            "noir",
+            "farine",
+            "paille",
+            "épi",
+            "champs",
+            "argent"
+        ]
+    },
+    {
+        "code": "col",
+        "indices": [
+            "cache",
+            "blanc",
+            "claudine",
+            "femur",
+            "tourmalet",
+            "cygne"
+        ]
+    },
+    {
+        "code": "sel",
+        "indices": [
+            "fleur",
+            "pâte",
+            "blanc",
+            "bain",
+            "alun",
+            "guérande"
+        ]
+    },
+    {
+        "code": "cri",
+        "indices": [
+            "guerre",
+            "coeur",
+            "dernier",
+            "hurlement",
+            "animaux",
+            "douleur"
+        ]
+    },
+    {
+        "code": "cafe",
+        "indices": [
+            "poudre",
+            "lait",
+            "bol",
+            "grain",
+            "frappe",
+            "tasse"
+        ]
+    },
+    {
+        "code": "tresor",
+        "indices": [
+            "carte",
+            "public",
+            "pirate",
+            "ile",
+            "coffre",
+            "salle"
+        ]
+    },
+    {
+        "code": "avocat",
+        "indices": [
+            "defense",
+            "legitime",
+            "football",
+            "secret",
+            "éléphant",
+            "arche"
+        ]
+    },
+    {
+        "code": "laine",
+        "indices": [
+            "verre",
+            "petite",
+            "bonnet",
+            "tissu",
+            "pelote",
+            "fil"
+        ]
+    },
+    {
+        "code": "sac",
+        "indices": [
+            "main",
+            "papier",
+            "plage",
+            "voyage",
+            "noeuds",
+            "poubelle"
+        ]
+    },
+    {
+        "code": "plaque",
+        "indices": [
+            "dentaire",
+            "rue",
+            "verglas",
+            "cuisson",
+            "immatriculation",
+            "égout"
+        ]
+    },
+    {
+        "code": "carnet",
+        "indices": [
+            "route",
+            "timbres",
+            "bord",
+            "notes",
+            "adresses",
+            "livret"
+        ]
+    },
+    {
+        "code": "lune",
+        "indices": [
+            "croissant",
+            "satellite",
+            "clair",
+            "gibbeuse",
+            "apollo",
+            "ciel"
+        ]
+    },
+    {
+        "code": "ami",
+        "indices": [
+            "prix",
+            "conseil",
+            "petit",
+            "ennemi",
+            "enfance",
+            "meilleur"
+        ]
+    },
+    {
+        "code": "pere",
+        "indices": [
+            "beau",
+            "spirituel",
+            "famille",
+            "noel",
+            "fouettard",
+            "papa"
+        ]
+    },
+    {
+        "code": "chute",
+        "indices": [
+            "tissu",
+            "libre",
+            "eau",
+            "cheveux",
+            "point",
+            "tension"
+        ]
+    },
+    {
+        "code": "paix",
+        "indices": [
+            "traité",
+            "havre",
+            "gardien",
+            "guerre",
+            "nobel",
+            "faire"
+        ]
+    },
+    {
+        "code": "patte",
+        "indices": [
+            "croche",
+            "velours",
+            "fixation",
+            "insecte",
+            "oie",
+            "blanche"
+        ]
+    },
+    {
+        "code": "bulle",
+        "indices": [
+            "air",
+            "savon",
+            "niveau",
+            "gaz",
+            "bande-dessinée",
+            "champagne"
+        ]
+    },
+    {
+        "code": "fort",
+        "indices": [
+            "chateau",
+            "temps",
+            "coffre",
+            "esprit",
+            "porte",
+            "café"
+        ]
+    },
+    {
+        "code": "genie",
+        "indices": [
+            "civil",
+            "mal",
+            "idée",
+            "intelligence",
+            "lampe",
+            "don"
+        ]
+    },
+    {
+        "code": "vague",
+        "indices": [
+            "froid",
+            "creux",
+            "surf",
+            "terrain",
+            "sommet",
+            "mascaret"
+        ]
+    },    
+    {
+        "code": "joie",
+        "indices": [
+            "vivre",
+            "feu",
+            "larmes",
+            "rabat",
+            "hymne",
+            "saut"
+        ]
+    },
+    {
+        "code": "serpent",
+        "indices": [
+            "langue",
+            "corail",
+            "morsure",
+            "mer",
+            "sonnette",
+            "ophiophobie"
+        ]
+    },
+    {
+        "code": "cadeau",
+        "indices": [
+            "idée",
+            "coffret",
+            "naissance",
+            "anniversaire",
+            "papier",
+            "noël"
+        ]
+    }
+    
+
+]
